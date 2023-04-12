@@ -1,2 +1,2 @@
-# LSTM-Autoencoder---EKG-Daten
+# LSTM-Autoencoder-EKG-Daten
 EKG-Anomalieerkennung mithilfe des LSTM Autoencoders
